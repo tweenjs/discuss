@@ -1,3 +1,5 @@
+DEPRECATED, use https://github.com/tweenjs/tween.js/discussions
+
 # Discuss
 
 Discussions about tween.js in general
